@@ -1,0 +1,20 @@
+@font-face {
+	font-family: 'Outfit';
+	src: url('/fonts/Outfit-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'YoungSerif';
+	src: url('/fonts/YoungSerif-Regular.ttf') format('truetype');
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #F3E5D7;
+}
